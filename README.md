@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jnsdnl
 - 👀 I’m interested in HTML, CSS,
-- 🌱 I’m currently learning Javascrip, Puthon
+- 🌱 I’m currently learning Javascrip, Python
 - 💞️ I’m looking to collaborate on HTML
 - 📫 How to reach me juniusdaniel15@gmail.com
 
